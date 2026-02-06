@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://swh922.github.io
 date_format: "ordinal"
 title: 八一九九の小站
 subtitle: "不如总在途中"
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 八一九九
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: swh922
+location: Weifang, China
+email: swh@819.gv.uy
 
 # ---------------- #
 #    Navigation    #
