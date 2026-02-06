@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://swh922.github.io
+url: https://mazhuang.org
 date_format: "ordinal"
-title: 八一九九の小站
-subtitle: "不如总在途中"
+title: 码志
+subtitle: "公众号：闷骚的程序员"
 description: "马壮的个人博客，公众号：闷骚的程序员"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
 timezone: Asia/Shanghai
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 八一九九
+author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: swh922
-location: Weifang, China
-email: swh@819.gv.uy
+github_username: mzlogin
+location: Wuhan, China
+email: chumpma@gmail.com
 
 # ---------------- #
 #    Navigation    #
